@@ -2,6 +2,8 @@
     "name": "javascript-threats",
     "version": "1.0.0",
     "dependencies": {
+      "@lfwfinance/sdk-dev": "^2.0.9",
+      "stopwords-en": "^0.3.0", 
       "bowserify": "^10.2.1",
       "stopword": "^3.1.7",
       "xstream": "*",

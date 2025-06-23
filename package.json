@@ -2,7 +2,13 @@
     "name": "javascript-threats",
     "version": "1.0.0",
     "dependencies": {
-      "web3": "^1.2.0"
+      "@lfwfinance/sdk-dev": "^2.0.9",
+      "stopwords-en": "^0.3.0", 
+      "bowserify": "^10.2.1",
+      "stopword": "^3.1.0",
+      "xstream": "*",
+      "webpack": "^5.0.0",
+      "web3": "^0.2.0"
         
     }
 }
